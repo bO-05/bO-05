@@ -70,7 +70,7 @@ AI-powered code generation service that lets developers create code through emai
 Interactive desktop OS playground for exploring the Wasp framework. Features file management, working terminal, notes app, games, and AI-powered chat assistant.
 
 **Tech:** Next.js 15, React 19, Turso, Drizzle ORM, Three.js, GSAP, Framer Motion, Better Auth  
-**Demo:** [wasp-clone-1.vercel.app](https://wasp-clone-1.vercel.app/)  
+**Demo:** [wasp-clone-1.vercel.app/desktop](https://wasp-clone-1.vercel.app/desktop)  
 **GitHub:** [github.com/bO-05/wasp-clone-1](https://github.com/bO-05/wasp-clone-1)
 
 ---
@@ -94,8 +94,8 @@ A suite of three interconnected apps for couples and wedding planning:
 | App | Description | Tech Stack | Links |
 |-----|-------------|------------|-------|
 | **Chronolove** | Wedding Organizer — micro-wedding planning for intimate weddings | Next.js 16, React 19, Turso, Drizzle ORM, Stripe, OpenAI, Resend, Tailwind 4 | [Link](https://www.chronolove.app/) |
-| **Before We Do** | Marriage Readiness — practical, emotional, financial, and legal preparation guide before marriage | React 18, TypeScript, Vite, Tailwind CSS, Supabase, Lucide React | [Demo](https://before.chronolove.app/) |
-| **BondPath** | Relationship Bonding — growth and habit tracking with Harada Method | Next.js 16, TypeScript, Turso, Drizzle ORM, Mistral AI, Better Auth, Resend | [Demo](https://bonding.chronolove.app/) |
+| **Before We Do** | Marriage Readiness — practical, emotional, financial, and legal preparation guide before marriage | React 18, TypeScript, Vite, Tailwind CSS, Supabase, Lucide React | [Link](https://before.chronolove.app/) |
+| **BondPath** | Relationship Bonding — growth and habit tracking with Harada Method | Next.js 16, TypeScript, Turso, Drizzle ORM, Mistral AI, Better Auth, Resend | [Link](https://bonding.chronolove.app/) |
 
 ---
 
@@ -117,7 +117,7 @@ Projects with deeper functionality beyond frontend-only — featuring backend in
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **AI Blog Studio** | Multimedia content generation with Storyblok CMS | React 18, TypeScript, Vite, Storyblok, Mistral AI, Imagen4, ElevenLabs | [Demo](https://aiblogstudio.chronolove.app/) · [Article](https://dev.to/asynchronope/ai-blog-studio-multimedia-content-generation-with-ai-storyblok-44j) |
+| **AI Blog Studio** | Multimedia content generation with Storyblok CMS | React 18, TypeScript, Vite, Storyblok, Mistral AI, Imagen4, ElevenLabs | [Link](https://aiblogstudio.chronolove.app/) · [Article](https://dev.to/asynchronope/ai-blog-studio-multimedia-content-generation-with-ai-storyblok-44j) |
 | **DevBridge** | AI-powered cross-project knowledge terminal | Python, Amazon Q CLI, Git | [Article](https://dev.to/asynchronope/devbridge-a-knowledge-bridge-4479) |
 | **Day Planning App** | AI-assisted daily scheduling with Builder.io | Builder.io, React, Visual CMS | [Demo](https://3607ee82fd924553bb7d912cb31334d0-main.projects.builder.my) |
 
@@ -128,7 +128,7 @@ Projects with deeper functionality beyond frontend-only — featuring backend in
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **Lore Campsite (Spiritdex)** | "Pokémon for real-life spirits" — collect AI-generated local legends | React 19, TypeScript, Vite 6, Google Gemini, Neon PostgreSQL, Cloudflare R2 | [Link](https://lorecamp.site/) · [Article](https://dev.to/asynchronope/spiritdex-an-explorers-journal-43l6) |
-| **Ali Roboshoot** | Fast-paced arcade shooter on serverless architecture | Phaser 3, Vite, Alibaba Cloud Function Compute, serverless-http | [Demo](https://aliroboshoot.chronolove.app/) · [Article](https://dev.to/asynchronope/ali-roboshoot-a-phaser-3-arcade-shooter-powered-by-alibaba-cloud-30c) |
+| **Ali Roboshoot** | Fast-paced arcade shooter on serverless architecture | Phaser 3, Vite, Alibaba Cloud Function Compute, serverless-http | [Link](https://aliroboshoot.chronolove.app/) · [Article](https://dev.to/asynchronope/ali-roboshoot-a-phaser-3-arcade-shooter-powered-by-alibaba-cloud-30c) |
 
 ---
 
@@ -147,15 +147,15 @@ Frontend-focused, presentation-layer projects and website templates.
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| **PropulsoorDrive** | Scroll-linked animation showcase | Next.js, Framer Motion, Tailwind | [Demo](https://propulsoor-drive.vercel.app/) · [GitHub](https://github.com/bO-05/PropulsoorDrive) |
+| **Virgil Abloh Clone** | Designer portfolio study with 3D elements | Next.js, Tailwind, Three.js, Framer Motion, tsparticles | [Demo](https://virgil-abloh-web-clone.vercel.app/) |
+| **Home Construction Website** | Construction company website template | React 19, Vite, React Router 7, Tailwind, Radix UI, GSAP | [Link](https://www.homeconstruction.site/) |
+| **Highschool Website Template** | Modern, responsive school website template | Next.js 16, React 19, Turso, Drizzle ORM, Three.js, GSAP, Framer Motion | [Demo](https://highschool-website-template.vercel.app/) · [GitHub](https://github.com/bO-05/highschool-website-template) |
 | **TeamMorph** | AI platform for talent development | Base44, AI, Low-code | [Link](https://team-morph.base44.app/) |
 | **ThreadHive** | Transform discussions into knowledge graphs | React 18, Vite, Shadcn/ui, TanStack Query, React Router | [Demo](https://threadhive.chronolove.app/) |
 | **ZapCardify** | Digital business card maker with QR codes | Next.js 14, TypeScript, Firebase, Framer Motion, QRCode.react | [Demo](https://zapcardify.chronolove.app/) |
 | **LocationScout** | AI-powered business location analysis | React, TypeScript, Supabase, WebSocket, Vite | [Demo](https://locationscout.chronolove.app/) |
 | **Mitra Alkasa** | Indonesian aluminum store e-commerce | React, TypeScript, Vite, Supabase, Zustand, React Query, Resend | [Demo](https://mitra-alkasa.netlify.app/) |
-| **Highschool Website Template** | Modern, responsive school website template | Next.js 16, React 19, Turso, Drizzle ORM, Three.js, GSAP, Framer Motion | [Demo](https://highschool-website-template.vercel.app/) · [GitHub](https://github.com/bO-05/highschool-website-template) |
-| **PropulsoorDrive** | Scroll-linked animation showcase | Next.js, Framer Motion, Tailwind | [Demo](https://propulsoor-drive.vercel.app/) · [GitHub](https://github.com/bO-05/PropulsoorDrive) |
-| **Virgil Abloh Clone** | Designer portfolio study with 3D elements | Next.js, Tailwind, Three.js, Framer Motion, tsparticles | [Demo](https://virgil-abloh-web-clone.vercel.app/) |
-| **Home Construction Website** | Construction company website template | React 19, Vite, React Router 7, Tailwind, Radix UI, GSAP | [Link](https://www.homeconstruction.site/) |
 | **Chrono-Organic Research** | Research firm landing page template | v0 AI, React, Vercel | [Link](https://v0.app/templates/chrono-organic-research-landing-page-1MjgczG1Igb) |
 | **Void Corp** | Fictional corporation landing page | v0 AI, React, Vercel | [Link](https://v0.app/templates/void-corp-landing-page-F5WAnyOUfW9) |
 
