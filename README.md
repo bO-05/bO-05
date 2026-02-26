@@ -12,6 +12,7 @@
 | DEV.to | [dev.to/asynchronope](https://dev.to/asynchronope) |
 | Twitter/X | [x.com/asynchronope](https://x.com/asynchronope) |
 | Medium | [medium.com/@giladam01](https://medium.com/@giladam01) |
+| Devpost | [devpost.com/giladam01](https://devpost.com/giladam01) |
 | Blog | [asynchronope.my.id](https://asynchronope.my.id/) |
 
 ---
