@@ -124,7 +124,7 @@ A suite of interconnected apps for couples and wedding planning:
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Phonautograph** | A personal site that keeps voices as marks — not transcripts | JavaScript | [Demo](https://phonautograph-home.zocomputer.io/) · [Article](https://contra.com/community/kdIzCNj2-phonautograph-a-voice-carved-memory-wall-a) |
+| **Phonautograph** | A personal site that keeps voices as marks — not transcripts | JavaScript | [Demo](https://phonautograph-home.zocomputer.io/) · [Post](https://contra.com/community/kdIzCNj2-phonautograph-a-voice-carved-memory-wall-a) |
 | **Verdikt+** | AI-driven prediction market dashboard for Polymarket and Kalshi | TypeScript | [Demo](https://verdiktplus.lovable.app/) |
 | **Handwritten** | A real font from a scanned handwriting sample, fully automated Python pipeline | Python | [Demo](https://handwritten-bo-05.netlify.app/) · [GitHub](https://github.com/bO-05/handwritten) |
 
@@ -172,10 +172,10 @@ A suite of interconnected apps for couples and wedding planning:
 
 | Project | Description | Links |
 |---------|-------------|-------|
+| **Home Construction Website** | Construction company website template | [Link](https://homeconstruction-site.vercel.app/) · [GitHub](https://github.com/bO-05/homeconstruction-site) |
+| **Highschool Website Template** | Modern, responsive school website | [Demo](https://highschool-website-template.vercel.app/) · [GitHub](https://github.com/bO-05/highschool-website-template) |
 | **PropulsoorDrive** | Scroll-linked animation showcase | [Demo](https://propulsoor-drive.vercel.app/) · [GitHub](https://github.com/bO-05/PropulsoorDrive) |
 | **Virgil Abloh Clone** | Designer portfolio study with 3D elements | [Demo](https://virgil-abloh-web-clone.vercel.app/) |
-| **Home Construction Website** | Construction company website template | [Link](https://www.homeconstruction.site/) |
-| **Highschool Website Template** | Modern, responsive school website | [Demo](https://highschool-website-template.vercel.app/) · [GitHub](https://github.com/bO-05/highschool-website-template) |
 
 ---
 
