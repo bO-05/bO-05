@@ -1,4 +1,4 @@
-# Adam / Asynchronope
+# Gilang Adam / Asynchronope
 
 **Full-Stack Vibe-Developer** specializing in AI-powered applications and interactive experiences
 
@@ -8,12 +8,12 @@
 
 | Platform | Link |
 |----------|------|
+| Portfolio | [asynchronope.my.id](https://asynchronope.my.id/) |
 | GitHub | [github.com/bO-05](https://github.com/bO-05) |
 | DEV.to | [dev.to/asynchronope](https://dev.to/asynchronope) |
 | Twitter/X | [x.com/asynchronope](https://x.com/asynchronope) |
 | Medium | [medium.com/@giladam01](https://medium.com/@giladam01) |
 | Devpost | [devpost.com/giladam01](https://devpost.com/giladam01) |
-| Blog | [asynchronope.my.id](https://asynchronope.my.id/) |
 
 ---
 
