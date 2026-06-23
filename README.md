@@ -21,10 +21,10 @@
 
 | Award | Project | Announcement |
 |-------|---------|--------------|
-| **Auth0 for AI Agents Challenge Winner** | Assistant Zero | [Link](https://dev.to/devteam/congrats-to-the-winners-of-the-auth0-for-ai-agents-challenge-2jc8) |
-| **Postmark Inbox Innovators Winner** | EPB (Email to Code) | [Link](https://dev.to/devteam/congrats-to-the-winners-of-postmark-challenge-inbox-innovators-56f2) |
-| **Wasp Design-AI-thon Winner** | Wasp Clone OS | [Link](https://wasp.sh/blog/2025/11/10/design-ai-thon-winners) |
-| **Hack for Humanity 2025 Finalist** | QuakeWatch | [Devpost](https://hack-for-humanity-25.devpost.com/) |
+| **Auth0 for AI Agents Challenge Winner** | [Assistant Zero](https://dev.to/asynchronope/assistant0-secure-ai-personal-assistant-l11) | [Link](https://dev.to/devteam/congrats-to-the-winners-of-the-auth0-for-ai-agents-challenge-2jc8) |
+| **Postmark Inbox Innovators Winner** | [EPB (Email to Code)](https://dev.to/asynchronope/epb-turn-emails-into-code-ai-powered-pull-requests-from-your-inbox-33pg) | [Link](https://dev.to/devteam/congrats-to-the-winners-of-postmark-challenge-inbox-innovators-56f2) |
+| **Wasp Design-AI-thon Winner** | [Wasp Clone OS](https://github.com/bO-05/wasp-clone-1) | [Link](https://wasp.sh/blog/2025/11/10/design-ai-thon-winners) |
+| **Hack for Humanity 2025 Finalist** | [QuakeWatch](https://devpost.com/software/quakewatch-real-time-global-earthquake-monitoring-platform) | [Devpost](https://hack-for-humanity-25.devpost.com/) |
 
 ---
 
