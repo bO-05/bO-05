@@ -8,7 +8,7 @@
 
 | Platform | Link |
 |----------|------|
-| Portfolio | [asynchronope.my.id](https://asynchronope.my.id/) |
+| Portfolio | [asynchronope.tech](https://asynchronope.tech/) |
 | GitHub | [github.com/bO-05](https://github.com/bO-05) |
 | DEV.to | [dev.to/asynchronope](https://dev.to/asynchronope) |
 | Twitter/X | [x.com/asynchronope](https://x.com/asynchronope) |
